@@ -1,10 +1,10 @@
+waitutility\WaitUtility.class
 excelutility\ReadExcelcode.class
 webDriverUtility\DriverAction.class
 excelutility\ExcelMain.class
 testNgUtility\Retry.class
 ExtentReports\ExtentTestManager.class
-webDriverUtility\BrowserUtility.class
-waitutility\WaitUtility.class
 testNgUtility\RetryListener.class
 commonUtility\ConfigFileReader.class
+webDriverUtility\BrowserUtility.class
 ExtentReports\ExtentManager.class
